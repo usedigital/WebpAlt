@@ -49,8 +49,8 @@ Existem algumas opções que você pode alterar para adaptar o comportamento do 
 O plugin contém duas funções de callback que serão envocadas após o processamento individual de cada item e após o processamento completo. Você pode utilizá-los para fazer com que o plugin trabalhe juntamente com outros plugins relacionados a imgens.
 #### Veja um exemplo com **JQuery LazyLoad**:
 ```html
- <script src="jquery.min.js"></script>
- <script src="jquery.webpalt.min.js"></script>
+<script src="jquery.min.js"></script>
+<script src="jquery.webpalt.min.js"></script>
 <script src="jquery.lazy/jquery.lazy.min.js"></script>
 <script src="jquery.lazy/jquery.lazy.plugins.min.js"></script>
 
@@ -58,7 +58,7 @@ O plugin contém duas funções de callback que serão envocadas após o process
 <script>  
     $(function(){  
         $("img").WebpAlt({
-            defaultSrcAttr : "data-src",		//Define o atributo de referência do WEBP como data-src (padrão do JQuery LazyLoad).
+            defaultSrcAttr : "data-src",	//Define o atributo de referência do WEBP como data-src (padrão do JQuery LazyLoad).
             afterAll : function(itens){
 				//Executa o LazyLoad após o processamento das imagens
 				$("img").lazy();
