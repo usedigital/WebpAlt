@@ -1,4 +1,6 @@
-[![Logo Use Digital](https://usedigital.com.br/img/logo.png "Logo Use Digital")](https://usedigital.com.br/ "Logo Use Digital")
+<p align="center">
+<a href="https://usedigital.com.br" target="_blank"><img src="https://usedigital.com.br/img/logo.png" alt="Logo Use Digital"></a>
+</p>
 
 # JQuery WebpAlt
 WebpAlt troca as imagens no formato WEBP por imagens alternativas definidas por você quando o navegador não suportar o formato.
