@@ -80,4 +80,4 @@ O plugin contém duas funções de callback que serão envocadas após o process
 ## Licença
 Este pacote é um software gratuito distribuído sob os termos da licença MIT.
 
-**Criado por Renalcio Carlos Jr. - Use Digital**
+**Use Digital &copy; Plugin criado por Renalcio Carlos Jr.**
