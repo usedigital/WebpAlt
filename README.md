@@ -1,6 +1,10 @@
+[![Logo Use Digital](https://usedigital.com.br/img/logo.png "Logo Use Digital")](https://usedigital.com.br/ "Logo Use Digital")
 
 # JQuery WebpAlt
 WebpAlt troca as imagens no formato WEBP por imagens alternativas definidas por você quando o navegador não suportar o formato.
+
+### [LIVE DEMO](http://usedigital.com.br "####LIVE DEMO")
+Compare abrir em diversos navegadores (inclusive o Safari) e inspecione os elementos de imagem.
 
 ### Intro
 Este projeto oferece uma solução simples para websites que possuem imagens no formato WEBP e tem dificuldades em serem carregados em navegadores sem suporte à extensão (ex. Safari).
