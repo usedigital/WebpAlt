@@ -74,6 +74,4 @@ O plugin contém duas funções de callback que serão envocadas após o process
 
 
 ## Licença
-Este pacote é um software gratuito distribuído sob os termos da licença MIT. # WebpAlt
-O WebpAlt altera as imagens do webp para uma outra extensão quando o navegador do usuário não pode carregá-lo.
-
+Este pacote é um software gratuito distribuído sob os termos da licença MIT.
