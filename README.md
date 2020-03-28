@@ -16,8 +16,8 @@ Com ele você consegue definir imagens alternativas para serem carregadas sempre
 Chame o script entre as tags `<head></head>` ou antes de fechar a tag `</body>`, é importante que ele seja carregado após o **JQuery**:
 
 ```html
-   <script src="jquery.min.js"></script>
-   <script src="jquery.webpalt.min.js"></script>
+ <script src="jquery.min.js"></script>
+ <script src="jquery.webpalt.min.js"></script>
 ```
 Agora inicie o plugin em uma tag ou seletor de sua preferência:
 
@@ -60,8 +60,8 @@ O plugin contém duas funções de callback que serão envocadas após o process
         $("img").WebpAlt({
             defaultSrcAttr : "data-src",	//Define o atributo de referência do WEBP como data-src (padrão do JQuery LazyLoad).
             afterAll : function(itens){
-				//Executa o LazyLoad após o processamento das imagens
-				$("img").lazy();
+		//Executa o LazyLoad após o processamento das imagens
+		$("img").lazy();
             }
         }); 
     });
