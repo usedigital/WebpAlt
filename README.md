@@ -51,8 +51,8 @@ O plugin contém duas funções de callback que serão envocadas após o process
 ```html
  <script src="jquery.min.js"></script>
  <script src="jquery.webpalt.min.js"></script>
-<script src="{{ asset("js/jquery.lazy/jquery.lazy.min.js") }}"></script>
-<script src="{{ asset("js/jquery.lazy/jquery.lazy.plugins.min.js") }}"></script>
+<script src="jquery.lazy/jquery.lazy.min.js"></script>
+<script src="jquery.lazy/jquery.lazy.plugins.min.js"></script>
 
 
 <script>  
@@ -68,8 +68,10 @@ O plugin contém duas funções de callback que serão envocadas após o process
 </script>
 ```
 
-### Em desenvolvimento
-Estamos implementando o plugin para que ele reconheça também imagens de fundo definidas no CSS de elementos.
+### Em breve
+- Reconhecer também imagens de fundo definidas por CSS.
+- Disponibilizar o plugin em CDN.
+
 
 ## Licença
 Este pacote é um software gratuito distribuído sob os termos da licença MIT. # WebpAlt
