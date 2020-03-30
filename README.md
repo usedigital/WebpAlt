@@ -25,6 +25,12 @@ Chame o script entre as tags `<head></head>` ou antes de fechar a tag `</body>`,
  <script src="jquery.min.js"></script>
  <script src="jquery.webpalt.min.js"></script>
 ```
+
+Você também pode carregar o plugin via CDN:
+```html
+ <script src="//cdn.jsdelivr.net/gh/usedigital/webpalt/jquery.webpalt.js"></script>
+```
+
 Agora inicie o plugin em uma tag ou seletor de sua preferência:
 
 ```html
@@ -76,7 +82,6 @@ O plugin contém duas funções de callback que serão envocadas após o process
 
 ### Em breve
 - Reconhecer também imagens de fundo definidas por CSS.
-- Disponibilizar o plugin em CDN.
 
 
 ## Licença
