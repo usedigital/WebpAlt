@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://usedigital.com.br" target="_blank"><img src="https://usedigital.com.br/img/logo.png" alt="Logo Use Digital"></a>
+<a href="https://usedigital.com.br" target="_blank"><img src="https://raw.githubusercontent.com/usedigital/WebpAlt/master/banner.png" width="100%" alt="Logo Use Digital"></a>
 </p>
 
 # JQuery WebpAlt
